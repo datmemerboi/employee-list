@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+h2 {
+  font-size: 1.8rem;
+}
+h4 {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+div.container {
+  position: absolute; left: 5vw;
+  width: 90vw;
+}
+div.left-container {
+  width: 44vw; height: inherit;
+  position: absolute; left: 0; top: 0;
+}
+div.right-container {
+  width: 44vw; height: inherit;
+  position: absolute; left: 45vw; top: 0;
+}
+div.slight-padding {
+  padding-left: 2rem;
+}
+form.form {
+  text-align: justify;
+  padding: 1rem;
+}
+div.card {
+  text-align: justify;
+  padding: 2rem 4rem 2rem 4rem;
+}
+div.btn-container {
+  text-align: center;
+  align-items: center;
+}
+br {
+  user-select: none;
+}
